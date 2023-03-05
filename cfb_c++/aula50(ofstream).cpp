@@ -7,7 +7,7 @@ int main(){
 
 ofstream arquivo;
 
-    arquivo.open("tatu.txt");
+    arquivo.open("test2.txt");
 
     arquivo << "tatu é um belo mamifero \n nao acredita?\n ";
     arquivo << "mas eu discordo!";

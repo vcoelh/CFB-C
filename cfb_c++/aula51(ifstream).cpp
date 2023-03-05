@@ -17,7 +17,7 @@ arquivoS.close();
 
     ifstream arquivoE;
     string linha; // vai armazenar a linha lida
-    arquivoE.open("projeto signal1.csv");
+    arquivoE.open("teste.txt");
 
     if(arquivoE.is_open()){
        
